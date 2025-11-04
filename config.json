@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#120D3A",
+            "welcome-bonus-bg": "#f2eee8",
+            "top-games-hover-fg": "#120D3A",
+            "main-bg": "#f3f4f1",
+            "text": "#120D3A",
+            "text-black": "#ffffff",
+            "table-head": "#988059",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#8A0F0F",
+            "yellow": "#1E1A52",
+            "yellow-button": "#8B734B",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#f2eee8",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#000033",
+            "faq-label": "#f2eee8",
+            "bg-footer": "#000033",
+            "copyright": "#e7e7d5",
+            "starColor": "#8A0F0F",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/11",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "River Rock Casino Resort",
+            "title": "River Rock Casino Resort | Casino, Hotel, Restaurants & Shows in Canada",
+            "description": "Discover the ultimate experience at River Rock Casino Resort: slot machines, table games, luxury accommodations, fine dining, bars, concerts, and exclusive events.",
+            "canonical": "river-rockcasino.com  ",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/349",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/350",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/351"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/355",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "River Rock Casino Resort Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "River Rock Casino Resort \u2014 Gaming, Dining & Entertainment in One Place",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/347",
+            "imageSizeModifier": 10,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/348",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and table games",
+                "Convenient location near Vancouver Airport",
+                "Luxury rooms with scenic river views",
+                "Variety of on-site restaurants and bars",
+                "Indoor pool with waterslide for relaxation",
+                "Live entertainment and concert venue",
+                "Free parking and easy SkyTrain access"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "River Rock Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/357",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "River Rock Casino App",
+            "mobileGooglePlayImageTitle": "River Rock Casino App",
+            "mobileIosImageTitle": "River Rock Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About River Rock Casino Resort",
+                "description1": "",
+                "items": [
+                    "Jackpots up to C$150,000 on slots",
+                    "Bonuses up to C$3,000 + 250 free spins",
+                    "Cash prize draws up to C$128,000"
+                ],
+                "description2": "River Rock Casino Resort is a modern destination offering comfortable accommodations and a variety of entertainment options. Guests can enjoy slot machines and table games, dine at on-site restaurants, and relax in stylish rooms. The resort features a convenient location, elegant design, and exceptional service. Live shows are hosted in the theater, while the pool and spa provide a relaxing escape. It\u2019s an ideal spot for both gaming enthusiasts and leisure travelers.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/358",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "River Rock Casino Resort \u2014 A World of Thrills and Comfort",
+                "description": "<p> River Rock Casino Resort is a unique destination where gaming excitement meets luxury relaxation. The casino features spacious gaming floors with hundreds of slot machines and classic table games, creating an atmosphere of thrill and endless winning opportunities. Every guest feels part of a world where luck can strike at any moment.\n<\/p>\n<br>\n<p> The resort offers stylish bars and restaurants serving exquisite dishes and signature cocktails. Curve Lounge is perfect for an evening drink, while The Buffet delights guests with a wide variety of flavors. Comfortable rooms and suites with modern design ensure privacy and relaxation for every visitor.\n<\/p>\n<br>\n<p> River Rock is renowned for its entertainment events: concerts, shows, and special occasions take place in its grand theater, adding a festive vibe. For those seeking relaxation, the resort provides an indoor pool with a waterslide, a spa area, and a fitness center. It\u2019s the ideal destination for combining gaming excitement with leisure.\n<\/p>\n<br>\n<p> Special attention is given to bonus programs and loyalty rewards. Guests can enjoy welcome bonuses, participate in prize draws, and receive exclusive offers. The loyalty program allows members to earn points and redeem them for privileges, making every visit even more rewarding.\n<\/p>\n<br>\n<p> River Rock Casino Resort is more than just a casino \u2014 it\u2019s a world of experiences where excitement, comfort, and entertainment come together. Here, everyone can find what they\u2019re looking for: from thrilling moments to peaceful relaxation.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for Visiting River Rock Casino Resort\n<\/h3>\n\n<p> Visiting the casino requires following certain guidelines to ensure comfort and safety for all guests. The main requirements include age restrictions, dress code, and proper conduct. Guests should remember that the casino is a place with a unique atmosphere where respect and style are valued.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key Rules<\/h4>\n\n\n        <ul>\n            <li>\u2022 Minimum age for entry is 19, and a valid ID must be presented.\n<\/li>\n            <li>\u2022 Dress code is smart casual: neat clothing, no sportswear, beachwear, or overly revealing outfits.\n<\/li>\n            <li>\u2022 Bringing outside food or alcohol is prohibited, as well as aggressive or disruptive behavior.\n<\/li>\n            <li>\u2022 Photography and video recording in gaming areas are restricted.\n<\/li>\n\t    <li>\u2022 Smoking is allowed only in designated areas.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRiver Rock Casino Loyalty Program \u2014 Maximum Rewards for Players\n<\/h3>\n\n<p> The River Rock Casino loyalty program, called The Club, is designed to reward regular guests for active play. It offers a flexible point system that can be redeemed for free play, comp dollars, dining discounts, hotel perks, and access to exclusive events. The more you play, the higher your status and the greater the benefits. Members enjoy personalized offers, bonus point multiplier days, and special gifts for holidays and birthdays. The program includes three tiers \u2014 Classic, Gold, and Platinum \u2014 each unlocking new privileges, from free parking to VIP service and invitations to private events.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program Benefits<\/h4>\n\n\n        <ul>\n            <li>\u2022 Free play and comp dollars for earned points\n<\/li>\n            <li>\u2022 Discounts on dining, accommodations, and partner services\n<\/li>\n            <li>\u2022 Exclusive promotions, giveaways, and holiday bonuses\n<\/li>\n            <li>\u2022 Priority service and VIP perks for higher tiers<\/li>\n\t    \n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Tiers and Requirements<\/h4>\n        <ul>\n            <li>\u2022 Classic \u2014 entry-level, available to all new members\n<\/li>\n            <li>\u2022 Gold \u2014 10,000 points in 6 months (approx. $10,000 slot play)\n<\/li>\n            <li>\u2022 Platinum \u2014 100,000 points in 6 months (approx. $100,000 slot play)\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonuses and Special Offers<\/h4>\n        <ul>\n            <li>\u2022 Welcome bonuses up to C$3,000 + 250 free spins\n<\/li>\n            <li>\u2022 Daily tournaments with prize pools up to C$3,000\n<\/li>\n            <li>\u2022 Birthday gifts: free play up to C$300\n<\/li>\n            <li>\u2022 Bonus point multiplier days: Gold \u00d73, Platinum \u00d74\n<\/li>  \n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  River Rock Casino Resort",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRiver Rock Casino Bonuses & Special Offers\n<\/h3>\n\n<p> River Rock Casino Resort offers guests not only thrilling gaming but also a wide range of bonuses, special promotions, and seasonal events that make every visit unforgettable. The casino hosts regular tournaments, cash prize drawings, and themed campaigns, giving players the chance to win big and enjoy extra perks. New visitors benefit from generous welcome packages with free spins, while loyal players can join weekly and seasonal contests featuring impressive prize pools. Beyond gaming, the resort organizes live shows, concerts, and festive celebrations, creating a vibrant atmosphere all year long. Special offers also include dining deals, accommodation discounts, and unique themed nights.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Examples of bonuses and offers:<\/h4>\n        <ul>\n            <li>\u2022 Welcome package: up to C$3,000 + 250 free spins on initial deposits\n<\/li>\n            <li>\u2022 Daily slot tournaments: prize pools up to C$3,000\n<\/li>\n            <li>\u2022 Seasonal cash draws: e.g., \u201cLet It Fall\u201d with a total fund of C$128,000\n<\/li>\n            <li>\u2022 Sports contests: chance to win up to C$1,000,000 in long-term promotions\n<\/li>\n\t    <li>\u2022 New member gifts: up to C$50 free play and up to C$200 on return visits\n<\/li>\n            <li>\u2022 Holiday themes: special shows and dining offers for Halloween, Christmas, and New Year\n<\/li>\n            <li>\u2022 VIP promotions: access to private parties and exclusive prize draws for elite guests\n<\/li>\n\t           <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at River Rock Casino\n<\/h3>\n\n<p> River Rock Casino Resort offers an impressive selection of games designed to satisfy both beginners and seasoned players. The expansive gaming floor features over a thousand slot machines, including classic reels and progressive jackpots, alongside a wide range of table games. Card enthusiasts will love the dedicated poker room hosting tournaments and cash games, where strategy meets excitement. Among table games, blackjack, roulette, baccarat, and Ultimate Texas Hold\u2019em are fan favorites, creating an authentic casino atmosphere. For high rollers, exclusive VIP areas provide private tables and personalized service. Unique game variations like Spanish 21 and Pai Gow Poker add extra flavor to the gaming experience.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main game categories<\/h4>\n\n\n        <ul>\n            <li>\u2022 Slots: over 1,000 machines, including classic, video slots, and progressive jackpots\n<\/li>\n            <li>\u2022 Table games: blackjack, roulette, baccarat, craps, Pai Gow Poker, Ultimate Texas Hold\u2019em\n<\/li>\n            <li>\u2022 Poker: dedicated poker room with tournaments (Deep Stack Sundays, Bounty Mondays) and cash games (1\/3, 2\/5, 5\/10 No Limit Hold\u2019em)\n<\/li>\n            <li>\u2022 Exclusive variations: Spanish 21, Three Card Poker with progressive bets\n<\/li>\n\t    <li>\u2022 VIP areas: high-limit tables, private rooms, and personalized service\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at River Rock Casino \n<\/h3>\n\n<p> River Rock Casino Resort offers flexible betting limits to ensure every guest finds their ideal level of play. Slot machines start with very low minimum bets, making them perfect for beginners, while progressive slots allow massive jackpots with relatively small wagers. Table games like blackjack, roulette, and baccarat feature varied limits suitable for both casual players and high rollers. Poker room stakes depend on game type and tournament format, and VIP areas provide private tables with high-limit action. This approach guarantees a comfortable gaming experience for everyone \u2014 from newcomers to seasoned professionals.<\/p>\n\n<br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#8B734B; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.01 \u2013 C$0.05 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$100 per spin <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> Up to C$500 per number<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> C$500 \u2013 C$1,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$25 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> Up to C$5,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold\u2019em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$500 per bet<\/td>\n                <\/tr>\n     <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Cash Games)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$1\/3 \u2013 C$2\/5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$5\/10 and higher<\/td>\n                <\/tr>\n     <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">VIP Area<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">From C$100<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$10,000+\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEntertainment and Shows at River Rock Casino\n<\/h3>\n\n<p> River Rock Casino Resort is not just about gaming; it\u2019s a hub for vibrant events and entertainment. The resort regularly hosts concerts, theatrical performances, and comedy shows that attract visitors from across the region. Its main stage is a modern theater with excellent acoustics, featuring renowned artists, music bands, and stand-up comedians. The event calendar is updated monthly, including themed nights, holiday shows, and special culinary experiences.<\/p>\n<br>\n<p> Nightlife is a major highlight. The stylish Curve Lounge transforms into a lively venue in the evenings with live music and DJ sets. Guests can enjoy signature cocktails, dance, and soak in the relaxed vibe. For those who prefer a quieter evening, wine tastings and gourmet dinners are available, while thrill-seekers can join themed parties and seasonal festivals.<\/p>\n<br>\n<p> The resort also organizes special holiday events: New Year\u2019s celebrations, Christmas concerts, Halloween parties, and summer BBQ festivals. River Rock is more than a casino \u2014 it\u2019s a full-scale entertainment destination where everyone can find something to enjoy.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main entertainment and events<\/h4>\n\n\n        <ul>\n            <li>\u2022 Concerts and shows \u2014 performances by famous artists, music nights, stand-up comedy\n<\/li>\n            <li>\u2022 Theatrical productions \u2014 comedy and drama plays in a modern theater\n<\/li>\n            <li>\u2022 Curve Lounge \u2014 nightlife with DJs, live music, and cocktails\n<\/li>\n            <li>\u2022 Themed parties \u2014 Halloween, New Year, summer festivals\n<\/li>\n\t    <li>\u2022 Culinary events \u2014 wine tastings, BBQ nights, guest chefs\n<\/li>\n<li>\u2022 Seasonal specials \u2014 holiday shows and exclusive guest offers\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants, and Relaxation at River Rock Casino Resort\n<\/h3>\n\n<p> River Rock Casino Resort is more than just gaming \u2014 it\u2019s a complete leisure destination offering exceptional comfort and entertainment. Guests can enjoy a variety of dining options and drinks at stylish restaurants and bars located throughout the resort. From quick bites to elegant lounges for evening cocktails and fine dining with river views, every venue delivers a unique experience. Menus range from international cuisine to signature cocktails, making it perfect for business meetings or romantic dinners.<\/p>\n<br>\n<p> The resort hotel features spacious rooms and suites with modern design, free Wi-Fi, and all amenities for a relaxing stay. For leisure, guests can unwind in the indoor pool with a waterslide, indulge in spa treatments, or stay active in the fitness center. River Rock is also famous for its entertainment events, including concerts, shows, and themed evenings in its grand theater, creating a festive atmosphere year-round.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Relaxation spots with brief descriptions<\/h4>\n\n\n        <ul>\n            <li>\u2022 Curve Lounge \u2014 stylish bar with cocktails and light snacks\n<\/li>\n            <li>\u2022 The Buffet \u2014 restaurant offering a wide variety of dishes\n<\/li>\n            <li>\u2022 Sea Harbour \u2014 fine Chinese cuisine in an elegant setting\n<\/li>\n            <li>\u2022 Lobby Caf\u00e9 \u2014 coffee, desserts, and quick bites\n<\/li>\n\t    <li>\u2022 River Rock Hotel \u2014 spacious rooms and suites with river views\n<\/li>\n            <li>\u2022 Spa Center \u2014 massages and body treatments\n<\/li>\n            <li>\u2022 Indoor Pool \u2014 relaxation area with waterslide\n<\/li>\n            <li>\u2022 Fitness Center \u2014 modern equipment for workouts\n<\/li>\n            <li>\u2022 River Rock Theater \u2014 concerts, shows, and entertainment events\n\n<\/li>\n\t    \n        <\/ul><br>\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, credit cards, and debit cards are accepted.\n\n\n"
+                },
+                {
+                    "title": "Can I pay online?",
+                    "answer": "Yes, hotel booking and show tickets are available online.\n\n\n"
+                },
+                {
+                    "title": "What languages are supported at the casino?",
+                    "answer": "English is primary, staff often speaks Chinese and other languages.\n\n\n"
+                },
+                {
+                    "title": "Can I play without cash?",
+                    "answer": "Yes, chips and cards are available for purchase on-site.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/356",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "River Rock Casino Resort"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

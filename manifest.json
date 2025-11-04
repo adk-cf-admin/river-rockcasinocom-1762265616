@@ -1,0 +1,19 @@
+{
+  "name": "River Rock Casino Resort",
+  "short_name": "River Rock Casino Resort",
+  "theme_color": "",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1762261970-riverrock-logo-e1539723510992-cr-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://river-rockcasino.com/
+Sitemap: https://river-rockcasino.com/sitemap.xml
